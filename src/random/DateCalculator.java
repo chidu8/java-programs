@@ -17,7 +17,7 @@ Output: Wednesday the 15th
 
 public class DateCalculator {
 
-		// LOGIC: If we're given access to Java's Date class: 
+		// APPROACH 1: LOGIC ONLY ( If we're given access to Java's Date class)
 		// public static Date businessDaysFromNow (int numBusinessDays, Date today) {
 		// 		Date current = today;
 		//		int count = numBusinessDays;
